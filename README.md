@@ -33,12 +33,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alves-Latitude&show_icons=true&theme=tokyonight&hide_border=true" alt="stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alves-Latitude&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" height="165"/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alves-Latitude&theme=tokyonight&hide_border=true" alt="streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Alves-Latitude&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 
 </div>
 
