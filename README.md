@@ -58,6 +58,6 @@
 
 <div align="center">
 
-*Feito com café ☕ e uns bons `ping`s no BMC.*
+
 
 </div>
