@@ -1,32 +1,49 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Gabriel%20Alves&fontSize=48&fontColor=58A6FF&fontAlignY=38&desc=Infra%20%2F%20Bare-Metal%20%2F%20Automation&descAlignY=58&descColor=8B949E&animation=fadeIn" />
+</div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Infraestrutura+bare-metal+%26+automa%C3%A7%C3%A3o;Python+%2B+Django+%2B+Bash;IPMI+%2F+BMC+%2F+Redfish+no+dia+a+dia;Sempre+construindo+algo+novo" alt="Typing SVG" />
+<div align="center">
+
+```
+$ whoami
+> infra engineer @ Latitude.sh — bare-metal provisioning, OOB mgmt, automation
+> based in São Paulo, BR
+> status: online 🟢
+```
 
 </div>
 
 <br>
 
-<table align="center">
+<table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-### 👋 Sobre mim
+### `~/about`
 
-Trabalho com infraestrutura de datacenter na **Latitude.sh** — provisionamento de servidores bare-metal, gerenciamento remoto (IPMI/BMC/Redfish) e suporte técnico para clientes em múltiplas localidades (MIA2, Dallas, NYC).
+Cuido de infraestrutura bare-metal na **Latitude.sh**: provisionamento de servidores, gerenciamento remoto via **IPMI / BMC / Redfish**, e suporte para clientes em MIA2, Dallas e NYC.
 
-No dia a dia, misturo troubleshooting de hardware (Dell PowerEdge, Supermicro, ASUS) com scripts e automações em Python pra tornar tudo mais rápido e confiável.
+No dia a dia trabalho direto com hardware — Dell PowerEdge, Supermicro, ASUS — diagnosticando falhas, configurando RAID/BIOS/SEV-SNP, e escrevendo scripts em Python/Bash pra automatizar o que puder.
 
-- 🔧 Bare-metal, BIOS/RAID, OOB management
-- 🐍 Python, Django, Bash, automação
-- 📍 São Paulo, Brasil
+```yaml
+role:      Infrastructure & Automation
+focus:     bare-metal, OOB management, tooling
+hardware:  Dell PowerEdge · Supermicro · ASUS
+location:  São Paulo, BR
+```
 
 </td>
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
-### 🚀 Projeto em destaque
+### `~/pinned`
 
 **[Inventory.sh](https://github.com/Alves-Latitude/Inventory.sh)**
-Sistema de inventário de componentes de servidor, feito em Django — controle de estoque, movimentações, relatórios por Data Center e alertas de estoque mínimo.
+Sistema de inventário de componentes de servidor — Django, controle de estoque, movimentações e relatórios por Data Center.
+
+```
+stack:  Django · SQLite/Postgres
+status: 🟢 in production
+```
 
 </td>
 </tr>
@@ -34,46 +51,46 @@ Sistema de inventário de componentes de servidor, feito em Django — controle 
 
 <br>
 
-### 🛠️ Tech Stack
+### `~/stack`
 
 <p align="center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/Discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/IPMI%20%2F%20Redfish-2496ED?style=for-the-badge">
-<img src="https://img.shields.io/badge/NetBox-informational?style=for-the-badge">
+  <img src="https://skillicons.dev/icons?i=python,django,bash,linux,git,docker,discordjs&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/IPMI%20%2F%20BMC%20%2F%20Redfish-0F172A?style=for-the-badge&labelColor=0F172A&color=58A6FF">
+  <img src="https://img.shields.io/badge/NetBox-0F172A?style=for-the-badge&labelColor=0F172A&color=58A6FF">
+  <img src="https://img.shields.io/badge/RAID%20%2F%20BIOS-0F172A?style=for-the-badge&labelColor=0F172A&color=58A6FF">
 </p>
 
 <br>
 
-### 📊 GitHub Stats
+### `~/uptime`
 
 <div align="center">
-<img src="https://github-readme-streak-stats.demolab.com/?user=Alves-Latitude&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Alves-Latitude&theme=github-dark&hide_border=true&background=0F172A&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
 </div>
 
 <br>
 
-### ⚽🎴 Fora do terminal
+### `~/off-duty`
 
-- Acompanhando de perto a Copa do Mundo 2026
-- Colecionando e jogando **Pokémon TCG**
-- Sempre rodando algum experimento novo com bots e scripts
+```
+- watching:   Copa do Mundo 2026 ⚽
+- collecting: Pokémon TCG 🎴
+- building:   random bots & scripts, always something running
+```
 
 <br>
 
-### 📫 Como falar comigo
+### `~/connect`
 
 <p align="center">
-<a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0F172A"></a>
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0F172A"></a>
+  <a href="https://github.com/Alves-Latitude"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0F172A"></a>
 </p>
 
-<br>
-
 <div align="center">
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" />
 </div>
