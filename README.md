@@ -68,7 +68,7 @@ status: 🟢 in production
 ### `~/uptime`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Alves-Latitude&theme=github-dark&hide_border=true&background=0F172A&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=Alves-Latitude&theme=github-dark-dimmed&hide_border=true" alt="streak stats" />
 </div>
 
 <br>
