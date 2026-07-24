@@ -77,7 +77,7 @@ status: 🟢 in production
 
 ```
 - collecting: Pokémon TCG 🎴
-- building:   random bots & scripts, always something running
+- building: Random bots & scripts, always something running 💻
 ```
 
 <br>
