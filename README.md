@@ -76,7 +76,6 @@ status: 🟢 in production
 ### `~/off-duty`
 
 ```
-- watching:   Copa do Mundo 2026 ⚽
 - collecting: Pokémon TCG 🎴
 - building:   random bots & scripts, always something running
 ```
