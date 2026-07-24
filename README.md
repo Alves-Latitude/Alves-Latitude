@@ -21,9 +21,9 @@ $ whoami
 
 ### `~/about`
 
-Cuido de infraestrutura bare-metal na **Latitude.sh**: provisionamento de servidores, gerenciamento remoto via **IPMI / BMC / Redfish**, e suporte para clientes em MIA2, Dallas e NYC.
+I take care of bare-metal infrastructure at **Latitude.sh**: server provisioning, remote management via **IPMI / BMC / Redfish**, and client-facing support across MIA2, Dallas, and NYC.
 
-No dia a dia trabalho direto com hardware — Dell PowerEdge, Supermicro, ASUS — diagnosticando falhas, configurando RAID/BIOS/SEV-SNP, e escrevendo scripts em Python/Bash pra automatizar o que puder.
+Day to day I work directly with hardware — Dell PowerEdge, Supermicro, ASUS — diagnosing failures, configuring RAID/BIOS/SEV-SNP, and writing Python/Bash scripts to automate whatever I can.
 
 ```yaml
 role:      Infrastructure & Automation
@@ -38,7 +38,8 @@ location:  São Paulo, BR
 ### `~/pinned`
 
 **[Inventory.sh](https://github.com/Alves-Latitude/Inventory.sh)**
-Sistema de inventário de componentes de servidor — Django, controle de estoque, movimentações e relatórios por Data Center.
+
+Server component inventory system — Django, stock control, movements, and per-Data-Center reporting.
 
 ```
 stack:  Django · SQLite/Postgres
@@ -68,8 +69,12 @@ status: 🟢 in production
 ### `~/uptime`
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Alves-Latitude&theme=github-dark-dimmed&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Alves-Latitude&theme=github-dark-dimmed&hide_border=true" alt="streak stats" />
 </div>
+
+<!-- Original link (switch back once demolab.com stabilizes):
+<img src="https://streak-stats.demolab.com/?user=Alves-Latitude&theme=github-dark-dimmed&hide_border=true" alt="streak stats" />
+-->
 
 <br>
 
@@ -77,7 +82,7 @@ status: 🟢 in production
 
 ```
 - collecting: Pokémon TCG 🎴
-- building: Random bots & scripts, always something running 💻
+- building: random bots & scripts, always something running 💻
 ```
 
 <br>
@@ -85,8 +90,8 @@ status: 🟢 in production
 ### `~/connect`
 
 <p align="center">
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0F172A"></a>
-  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0F172A"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=58A6FF&labelColor=0F172A"></a>
+  <a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=58A6FF&labelColor=0F172A"></a>
   <a href="https://github.com/Alves-Latitude"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=0F172A"></a>
 </p>
 
